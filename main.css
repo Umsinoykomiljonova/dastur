@@ -1,0 +1,270 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+.pixer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 250px;
+}
+
+.menyu {
+  display: flex;
+  gap: 50px;
+  font-size: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.pixer .p {
+  height: 150px;
+}
+
+.menyu .btn {
+  width: 169px;
+  font-size: 16px;
+  height: 50px;
+  left: 141px;
+  top: 531px;
+  border: none;
+  border-radius: 10px;
+  background: rgb(15, 200, 210);
+  color: white;
+}
+
+.yotup {
+  display: flex;
+  position: relative;
+  top: 70px;
+  align-items: center;
+  justify-content: center;
+  gap: 210px;
+}
+
+.biznes h1 {
+  font-size: 30px;
+}
+
+.biznes .xizmat {
+  width: 180px;
+  height: 50px;
+  left: 141px;
+  top: 531px;
+  border: none;
+  border-radius: 10px;
+  background: rgb(15, 200, 210);
+  color: white;
+}
+
+.biznes {
+  display: flex;
+  gap: -20px;
+  flex-direction: column;
+}
+
+.lorem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  top: 200px;
+}
+
+.saytla p {
+  font-size: 17px;
+  margin: 0;
+}
+
+.saytla {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.rasm {
+  display: flex;
+  margin-top: 80px;
+  gap: 250px;
+}
+
+.rasm h1 {
+  font-size: 25px;
+  margin-top: 30px;
+}
+
+.rasm2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 160px;
+  gap: 300px;
+}
+
+.yonalish {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+.yonalish p {
+  font-size: 18px;
+}
+
+.yonalish2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0;
+}
+
+.yonalish2 p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.rasm2 h1 {
+  margin-top: 30px;
+}
+
+.knopka button {
+  width: 180px;
+  font-size: 20px;
+  height: 50px;
+  left: 141px;
+  top: 531px;
+  border: none;
+  border-radius: 10px;
+  background: rgb(15, 200, 210);
+  color: white;
+}
+
+.knopka {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 90px;
+}
+
+.knopka u {
+  color: rgb(14, 223, 234);
+}
+
+.buyurtma {
+  display: flex;
+  gap: 70px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.buyurtma p {
+  font-size: 18px;
+  margin: 0;
+}
+
+.ish {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 350px;
+}
+
+.buyurtma h1 {
+  font-size: 30px;
+}
+
+.talab {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 250px;
+}
+
+.talab .nul {
+  position: relative;
+  left: -200px;
+}
+
+.yechim {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+
+.yechim .taklif {
+  position: relative;
+  left: -60px;
+}
+
+.yechim .taklif p {
+  position: relative;
+  bottom: 14px;
+}
+
+.talab .nul p {
+  position: relative;
+  bottom: 14px;
+}
+
+.buyurtma .zakas {
+  width: 180px;
+  font-size: 20px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  background: rgb(15, 200, 210);
+  color: white;
+}
+
+.regstr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+  background-color: rgb(15, 200, 210);
+}
+
+.regstr .nulam h2 {
+  font-size: 30px;
+  color: white;
+}
+
+.regstr .nulam p {
+  font-size: 17px;
+  color: white;
+}
+
+.regstr .qabul p {
+  display: flex;
+  gap: 500px;
+  color: black;
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+.qabul {
+  display: flex;
+  flex-direction: column;
+  margin-left: 118px;
+}
+
+.qabul {
+  width: 400px;
+  font-size: 20px;
+  height: 300px;
+  border: none;
+  border-radius: 5px;
+  background: white;
+}
